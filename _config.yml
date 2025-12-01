@@ -6,7 +6,7 @@ skip_external: true
 title: blank # the website title (if blank, full name will be used instead)
 first_name: David
 middle_name: Jacky
-last_name: Zhou
+last_name: Wang
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
