@@ -2,10 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+skip_external: true
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: David
+middle_name: 
+last_name: Zhou
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -202,7 +203,6 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
-  - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier

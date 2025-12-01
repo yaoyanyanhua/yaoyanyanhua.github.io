@@ -1,3 +1,9 @@
+# 在文件最开头添加这行，直接退出插件
+return if true  # 临时禁用插件
+
+
+
+
 require 'feedjira'
 require 'httparty'
 require 'jekyll'
